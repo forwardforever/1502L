@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //第一次提交代码
         //新建分支进行开发
+		//git 在同一个文件里进行操作 这时候会引起冲突
     }
 }
